@@ -11,7 +11,7 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parent
 SITE_URL = os.environ.get(
     "SITE_URL",
-    "https://YOUR-USERNAME.github.io/nj-history-daily"
+    "https://woodbridgetv.github.io/nj-history-daily"
 ).rstrip("/")
 ET.register_namespace("atom", "http://www.w3.org/2005/Atom")
 
