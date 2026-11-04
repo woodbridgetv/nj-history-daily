@@ -58,3 +58,4 @@ The scheduled workflow runs at 10:15 UTC (5:15 a.m. Eastern Standard Time or 6:1
 - GitHub Pages sites are public. This feed contains public historical information only.
 - The workflow writes only `feed.xml`; edit `history.json` to add or correct historical entries.
 - GitHub Pages is static hosting. GitHub Actions generates and commits the XML file; Pages then serves it.
+- <!-- deployment refresh -->
