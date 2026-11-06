@@ -15,6 +15,7 @@ SITE_URL = os.environ.get(
 ).rstrip("/")
 ET.register_namespace("atom", "http://www.w3.org/2005/Atom")
 
+
 def main():
     now = datetime.now(ZoneInfo("America/New_York"))
     today_key = now.strftime("%m-%d")
@@ -32,17 +33,23 @@ def main():
     ET.SubElement(channel, "lastBuildDate").text = format_datetime(now)
 
     if todays:
-        for item in todays:
-            title = f'This Day in New Jersey History — {now.strftime("%B")} {now.day}: {item["title"]}'
-            description = (
-                f'{item["text"]} '
-                f'Source: {item["source"]} ({item["source_url"]})'
+        for index, item in enumerate(todays, start=1):
+            title = (
+                f'This Day in New Jersey History — {now.strftime("%B")} '
+                f'{now.day}: {item["title"]}'
             )
-            guid = f'{SITE_URL}/#{now.strftime("%m-%d")}-{item["year"]}'
+            source = item.get("source", "Historical source")
+            source_url = item.get("source_url")
+            description = f'{item["text"]} Source: {source}'
+            if source_url:
+                description += f' ({source_url})'
+
+            guid = f'{SITE_URL}/#{today_key}-{item["year"]}-{index}'
             entry = ET.SubElement(channel, "item")
             ET.SubElement(entry, "title").text = title
             ET.SubElement(entry, "description").text = description
-            ET.SubElement(entry, "link").text = item["source_url"]
+            if source_url:
+                ET.SubElement(entry, "link").text = source_url
             ET.SubElement(entry, "guid", {"isPermaLink": "false"}).text = guid
             ET.SubElement(entry, "pubDate").text = format_datetime(now)
     else:
@@ -61,6 +68,7 @@ def main():
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
     tree.write(ROOT / "feed.xml", encoding="utf-8", xml_declaration=True)
+
 
 if __name__ == "__main__":
     main()

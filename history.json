@@ -1,19 +1,388 @@
 [
   {
-    "date": "01-03",
-    "year": 1777,
-    "title": "The Battle of Princeton",
-    "text": "On January 3, 1777, American forces won the Battle of Princeton. The victory followed the crossing of the Delaware and the Battle of Trenton, helping revive the Patriot cause in New Jersey.",
-    "source": "National Park Service",
-    "source_url": "https://www.nps.gov/subjects/americanrevolution/timeline.htm"
+    "date": "01-01",
+    "year": 1918,
+    "title": "Maxwell Logan establishes Woodbridge Printery",
+    "text": "On January 1, 1918, Maxwell Logan acquired printing equipment and moved it to Green Street in Woodbridge. He later published the Woodbridge Leader and Woodbridge Independent.",
+    "source": "Woodbridge local-history research"
   },
   {
-    "date": "06-28",
-    "year": 1778,
-    "title": "The Battle of Monmouth",
-    "text": "On June 28, 1778, the Battle of Monmouth was fought in New Jersey during the American Revolution. It became one of the largest battles of the war in the northern states.",
-    "source": "New Jersey historical chronology",
-    "source_url": "https://www.getnj.com/njags/chronology/chronologyto1800.shtml"
+    "date": "01-01",
+    "year": 1964,
+    "title": "Edwin Paul Beckerman begins work as library director",
+    "text": "On January 1, 1964, Edwin Paul Beckerman began work as the first director of Woodbridge Township's new public library system.",
+    "source": "Woodbridge local-history research"
+  },
+  {
+    "date": "01-01",
+    "year": 1964,
+    "title": "Woodbridge marks New Jersey's 300th anniversary",
+    "text": "On January 1, 1964, Woodbridge held a New Jersey Tercentenary ceremony at Town Hall, including a flag raising and the swearing-in of the Council under a new form of government.",
+    "source": "Woodbridge local-history research"
+  },
+  {
+    "date": "01-01",
+    "year": 1969,
+    "title": "Woodbridge begins its 300th anniversary celebration",
+    "text": "On January 1, 1969, Woodbridge Township began its 300th anniversary celebration with a flag raising and a reception hosted by the mayor.",
+    "source": "Contemporary Leader-Press, December 26, 1968"
+  },
+  {
+    "date": "01-06",
+    "year": 1838,
+    "title": "Morse and Vail demonstrate the telegraph in Morristown",
+    "text": "On January 6, 1838, Samuel Morse and Alfred Vail publicly demonstrated their telegraph at the Speedwell Ironworks in Morristown, New Jersey.",
+    "source": "New Jersey historical research"
+  },
+  {
+    "date": "01-06",
+    "year": 1877,
+    "title": "Woodbridge School No. 1 is dedicated",
+    "text": "On January 6, 1877, Woodbridge School No. 1 was dedicated. The historic school later became an important landmark in the township.",
+    "source": "Woodbridge Township historic walking-tour map"
+  },
+  {
+    "date": "01-07",
+    "year": 1894,
+    "title": "Edison laboratory films a sneeze",
+    "text": "On January 7, 1894, Thomas Edison's West Orange laboratory filmed Fred Ott sneezing. The short film was later registered as the first motion picture copyrighted in the United States.",
+    "source": "Thomas Edison Papers / Library of Congress research"
+  },
+  {
+    "date": "01-10",
+    "year": 1952,
+    "title": "Woodbridge's Captain Carlsen is rescued",
+    "text": "On January 10, 1952, Woodbridge resident Captain Kurt Carlsen was rescued after remaining aboard the stricken Flying Enterprise until the final moments. His courage made international headlines.",
+    "source": "Woodbridge Township history"
+  },
+  {
+    "date": "01-11",
+    "year": 1885,
+    "title": "Alice Paul is born in Mount Laurel",
+    "text": "On January 11, 1885, women's suffrage leader Alice Paul was born in Mount Laurel, New Jersey.",
+    "source": "Alice Paul Institute / New Jersey historical research"
+  },
+  {
+    "date": "01-13",
+    "year": 1931,
+    "title": "George Washington Bridge receives its official name",
+    "text": "On January 13, 1931, the Port Authority announced that the new Hudson River bridge would be named the George Washington Bridge. It opened later that year.",
+    "source": "Port Authority historical research"
+  },
+  {
+    "date": "01-15",
+    "year": 1857,
+    "title": "Absecon Lighthouse is first lit",
+    "text": "On January 15, 1857, Absecon Lighthouse in Atlantic City was first lit, helping guide ships along the New Jersey coast.",
+    "source": "New Jersey historical research"
+  },
+  {
+    "date": "01-15",
+    "year": 1952,
+    "title": "Final section of the New Jersey Turnpike opens",
+    "text": "On January 15, 1952, the final northern section of the New Jersey Turnpike opened, completing the 118-mile highway.",
+    "source": "New Jersey Turnpike Authority"
+  },
+  {
+    "date": "01-17",
+    "year": 1911,
+    "title": "Woodrow Wilson becomes New Jersey governor",
+    "text": "On January 17, 1911, Woodrow Wilson was inaugurated as New Jersey's governor. He later became the 28th president of the United States.",
+    "source": "New Jersey state historical research"
+  },
+  {
+    "date": "01-18",
+    "year": 1994,
+    "title": "Christine Todd Whitman becomes New Jersey governor",
+    "text": "On January 18, 1994, Christine Todd Whitman was inaugurated as New Jersey's 50th governor and the first woman to hold the office.",
+    "source": "New Jersey state historical research"
+  },
+  {
+    "date": "01-19",
+    "year": 1883,
+    "title": "Electric lighting system begins operating in Roselle",
+    "text": "On January 19, 1883, Thomas Edison's electric lighting system began operating in Roselle, demonstrating community-wide electric lighting.",
+    "source": "Thomas Edison Papers / New Jersey historical research"
+  },
+  {
+    "date": "01-21",
+    "year": 1876,
+    "title": "Plans begin for Woodbridge School No. 1",
+    "text": "On January 21, 1876, Woodbridge school trustee William H. Berry recommended buying land for a two-story, six-room school designed for 800 students, with a proposed budget of $25,000.",
+    "source": "Woodbridge local-history research"
+  },
+  {
+    "date": "01-21",
+    "year": 1947,
+    "title": "Alfred E. Driscoll becomes New Jersey governor",
+    "text": "On January 21, 1947, Alfred E. Driscoll was inaugurated as governor of New Jersey.",
+    "source": "New Jersey state historical research"
+  },
+  {
+    "date": "02-01",
+    "year": 1893,
+    "title": "Edison's Black Maria studio is completed",
+    "text": "On February 1, 1893, construction was completed on Thomas Edison's Black Maria motion-picture studio in West Orange.",
+    "source": "Thomas Edison National Historical Park"
+  },
+  {
+    "date": "02-06",
+    "year": 1951,
+    "title": "The Broker train derails in Woodbridge Township",
+    "text": "On February 6, 1951, the Pennsylvania Railroad train known as The Broker derailed in Woodbridge Township. The incident prompted a major investigation into rail safety.",
+    "source": "Interstate Commerce Commission investigation; Woodbridge historic-tour research"
+  },
+  {
+    "date": "02-08",
+    "year": 1974,
+    "title": "The Stone Pony opens in Asbury Park",
+    "text": "On February 8, 1974, the Stone Pony opened in Asbury Park, becoming one of New Jersey's best-known live-music venues.",
+    "source": "New Jersey music-history research"
+  },
+  {
+    "date": "02-09",
+    "year": 1943,
+    "title": "Joe Pesci is born in Newark",
+    "text": "On February 9, 1943, actor Joe Pesci was born in Newark, New Jersey.",
+    "source": "Biographical reference research"
+  },
+  {
+    "date": "02-10",
+    "year": 1945,
+    "title": "Construction begins on the S.S. Woodbridge Victory",
+    "text": "On February 10, 1945, the keel was laid for the S.S. Woodbridge Victory, a World War II cargo ship named in honor of Woodbridge Township.",
+    "source": "Woodbridge Township Historical Association; shipbuilding records"
+  },
+  {
+    "date": "02-11",
+    "year": 1938,
+    "title": "Edison Memorial Tower is dedicated",
+    "text": "On February 11, 1938, the Thomas Edison Memorial Tower was dedicated at the Menlo Park site in what is now Edison, New Jersey.",
+    "source": "New Jersey historical research"
+  },
+  {
+    "date": "02-12",
+    "year": 1948,
+    "title": "New Jersey National Guard is officially desegregated",
+    "text": "On February 12, 1948, New Jersey's National Guard was officially desegregated by General Order No. 4, making the state an early leader in integrating its military forces.",
+    "source": "New Jersey Department of Military Affairs"
+  },
+  {
+    "date": "02-14",
+    "year": 1989,
+    "title": "First liver transplant in New Jersey is performed",
+    "text": "On February 14, 1989, the first liver transplant in New Jersey was performed at University Hospital, formerly part of UMDNJ-New Jersey Medical School, in Newark.",
+    "source": "University Hospital / New Jersey medical-history research"
+  },
+  {
+    "date": "02-15",
+    "year": 1945,
+    "title": "Dr. Fred H. Albee dies",
+    "text": "On February 15, 1945, Woodbridge Township resident Dr. Fred H. Albee, a pioneer in orthopedic surgery, died. During World War I he directed a U.S. military hospital in Colonia.",
+    "source": "Woodbridge local-history research"
+  },
+  {
+    "date": "02-21",
+    "year": 1798,
+    "title": "Woodbridge Township is incorporated",
+    "text": "On February 21, 1798, Woodbridge Township was incorporated under New Jersey's Township Act of 1798.",
+    "source": "Woodbridge Township historical/planning records"
+  },
+  {
+    "date": "02-21",
+    "year": 1861,
+    "title": "Abraham Lincoln visits Trenton",
+    "text": "On February 21, 1861, President-elect Abraham Lincoln visited Trenton and addressed the New Jersey Legislature while traveling to his inauguration.",
+    "source": "New Jersey State Archives / Lincoln historical research"
+  },
+  {
+    "date": "02-22",
+    "year": 1922,
+    "title": "Iselin Volunteer Fire Company No. 1 is incorporated",
+    "text": "On February 22, 1922, Iselin Volunteer Fire Company No. 1 was incorporated in Woodbridge Township. Its charter included 20 members, and Frank Gallagher was its first fire chief.",
+    "source": "Iselin Volunteer Fire Company history"
+  },
+  {
+    "date": "03-04",
+    "year": 1913,
+    "title": "Woodrow Wilson is inaugurated as U.S. president",
+    "text": "On March 4, 1913, former New Jersey Governor and Princeton University president Woodrow Wilson was inaugurated as the 28th president of the United States.",
+    "source": "U.S. Senate historical records"
+  },
+  {
+    "date": "03-17",
+    "year": 1870,
+    "title": "Raritan Township is formed",
+    "text": "On March 17, 1870, Raritan Township was formed from portions of Woodbridge and Piscataway. It was renamed Edison in 1954.",
+    "source": "Genealogical Society of New Jersey, Middlesex County locality guide"
+  },
+  {
+    "date": "03-21",
+    "year": 1917,
+    "title": "Woodbridge organizes a civilian Home Defense League",
+    "text": "On March 21, 1917, Woodbridge Township organized a civilian Home Defense League as the United States prepared to enter World War I.",
+    "source": "Woodbridge Township Historical Association"
+  },
+  {
+    "date": "03-29",
+    "year": 1945,
+    "title": "S.S. Woodbridge Victory is completed and christened",
+    "text": "On March 29, 1945, the S.S. Woodbridge Victory was completed and christened. The World War II cargo ship was named in honor of Woodbridge Township.",
+    "source": "Woodbridge Township Historical Association; shipbuilding records"
+  },
+  {
+    "date": "03-31",
+    "year": 1870,
+    "title": "Thomas Mundy Peterson votes in Perth Amboy",
+    "text": "On March 31, 1870, Thomas Mundy Peterson of Perth Amboy became the first African American in the United States to vote under the Fifteenth Amendment.",
+    "source": "Smithsonian; New Jersey official history"
+  },
+  {
+    "date": "04-06",
+    "year": 1938,
+    "title": "Roy Plunkett discovers Teflon in New Jersey",
+    "text": "On April 6, 1938, chemist Roy Plunkett discovered Teflon while working at DuPont's Jackson Laboratory in New Jersey.",
+    "source": "DuPont / New Jersey science-history research"
+  },
+  {
+    "date": "04-09",
+    "year": 1898,
+    "title": "Paul Robeson is born in Princeton",
+    "text": "On April 9, 1898, singer, actor and civil-rights advocate Paul Robeson was born in Princeton, New Jersey.",
+    "source": "Paul Robeson House / biographical research"
+  },
+  {
+    "date": "04-11",
+    "year": 1906,
+    "title": "Roosevelt Borough is formed from Woodbridge territory",
+    "text": "On April 11, 1906, Roosevelt Borough was formed from part of Woodbridge Township. The borough was later renamed Carteret.",
+    "source": "Woodbridge Township historical research"
+  },
+  {
+    "date": "04-17",
+    "year": 1896,
+    "title": "Middlesex Water Company is incorporated",
+    "text": "On April 17, 1896, Middlesex Water Company was incorporated. The company sought permission to install water pipes beneath Woodbridge's public streets.",
+    "source": "Middlesex Water Company historical research"
+  },
+  {
+    "date": "04-18",
+    "year": 1946,
+    "title": "Jackie Robinson makes his professional debut in New Jersey",
+    "text": "On April 18, 1946, Jackie Robinson made his professional baseball debut with the Montreal Royals against the Jersey City Giants at Roosevelt Stadium.",
+    "source": "National Baseball Hall of Fame / New Jersey baseball history"
+  },
+  {
+    "date": "04-19",
+    "year": 1858,
+    "title": "Rahway Township is formed",
+    "text": "On April 19, 1858, Rahway Township was formed from territory that had previously been part of Woodbridge Township.",
+    "source": "New Jersey municipal-history research"
+  },
+  {
+    "date": "04-21",
+    "year": 1789,
+    "title": "George Washington enters Trenton",
+    "text": "On April 21, 1789, President-elect George Washington entered Trenton beneath a triumphal arch while traveling to New York for his first inauguration.",
+    "source": "New Jersey historical research"
+  },
+  {
+    "date": "04-22",
+    "year": 1789,
+    "title": "George Washington stays at Woodbridge's Cross Keys Tavern",
+    "text": "On April 22, 1789, President-elect George Washington stayed overnight at Woodbridge's Cross Keys Tavern while traveling to New York for his first inauguration.",
+    "source": "New Jersey historic marker; Woodbridge historical marker"
+  },
+  {
+    "date": "04-24",
+    "year": 1945,
+    "title": "S.S. Woodbridge Victory is delivered",
+    "text": "On April 24, 1945, the S.S. Woodbridge Victory was delivered at the Bethlehem-Fairfield Shipyard in Baltimore. The World War II cargo ship was named in honor of Woodbridge Township.",
+    "source": "Shipbuilding records; Woodbridge Township historical research"
+  },
+  {
+    "date": "04-29",
+    "year": 1949,
+    "title": "Woodbridge proposes a larger high school",
+    "text": "On April 29, 1949, Woodbridge school officials proposed a larger high school to serve the township's growing student population. Woodbridge Senior High School opened in September 1956.",
+    "source": "Woodbridge school-history research"
+  },
+  {
+    "date": "05-13",
+    "year": 1880,
+    "title": "Edison tests an experimental electric railway",
+    "text": "On May 13, 1880, Thomas Edison tested an experimental electric railway at Menlo Park, New Jersey.",
+    "source": "Thomas Edison Papers chronology"
+  },
+  {
+    "date": "05-14",
+    "year": 1844,
+    "title": "New Jersey Constitutional Convention begins",
+    "text": "On May 14, 1844, New Jersey's Constitutional Convention began in Trenton to consider changes to the state's governing document.",
+    "source": "New Jersey State Archives"
+  },
+  {
+    "date": "05-18",
+    "year": 1969,
+    "title": "Woodbridge Volunteer Fire Company No. 1 dedicates its firehouse",
+    "text": "On May 18, 1969, Woodbridge Volunteer Fire Company No. 1 dedicated its new firehouse.",
+    "source": "Woodbridge Volunteer Fire Company history"
+  },
+  {
+    "date": "05-20",
+    "year": 1891,
+    "title": "Edison demonstrates the Kinetoscope",
+    "text": "On May 20, 1891, Thomas Edison demonstrated the Kinetoscope at his West Orange laboratory to the Federation of Women's Clubs.",
+    "source": "Thomas Edison Papers / motion-picture history research"
+  },
+  {
+    "date": "05-21",
+    "year": 1666,
+    "title": "Woodbridge and Piscataway settlement agreement is signed",
+    "text": "On May 21, 1666, representatives of Woodbridge and Piscataway signed a settlement agreement with Governor Philip Carteret, setting terms for settlement and land allotment.",
+    "source": "Woodbridge Township local history"
+  },
+  {
+    "date": "05-30",
+    "year": 1916,
+    "title": "Woodbridge Soldiers' and Sailors' Monument is dedicated",
+    "text": "On May 30, 1916, Woodbridge dedicated its Soldiers' and Sailors' Monument at Main Street and Rahway Avenue.",
+    "source": "Woodbridge local-history research"
+  },
+  {
+    "date": "06-01",
+    "year": 1669,
+    "title": "Woodbridge receives its official charter",
+    "text": "On June 1, 1669, Woodbridge received its official charter from King Charles II, formally establishing the township.",
+    "source": "Woodbridge Township history"
+  },
+  {
+    "date": "06-06",
+    "year": 1933,
+    "title": "First drive-in movie theater opens in New Jersey",
+    "text": "On June 6, 1933, the first drive-in movie theater opened in Pennsauken, New Jersey.",
+    "source": "New Jersey historical research"
+  },
+  {
+    "date": "06-14",
+    "year": 1924,
+    "title": "Woodbridge dedicates its first official Town Hall",
+    "text": "On June 14, 1924, Woodbridge Township celebrated its 255th anniversary and dedicated its first official Town Hall as a memorial to local residents who served in World War I. About 30,000 people attended the celebration and parade.",
+    "source": "Woodbridge Township local history"
+  },
+  {
+    "date": "06-18",
+    "year": 1898,
+    "title": "Atlantic City's Steel Pier opens",
+    "text": "On June 18, 1898, Atlantic City's Steel Pier opened with a celebration featuring sharpshooter Annie Oakley.",
+    "source": "Atlantic City historical research"
+  },
+  {
+    "date": "06-26",
+    "year": 1870,
+    "title": "Atlantic City's first Boardwalk opens",
+    "text": "On June 26, 1870, Atlantic City's first Boardwalk opened along the beachfront.",
+    "source": "Atlantic City historical research"
   },
   {
     "date": "07-02",
@@ -24,12 +393,331 @@
     "source_url": "https://www.nj.gov/state/archives/documentary-treasures.shtml"
   },
   {
+    "date": "07-04",
+    "year": 1783,
+    "title": "Woodbridge physician publicly declares freedom for 14 people",
+    "text": "On July 4, 1783, Woodbridge physician Dr. Moses Bloomfield publicly declared the freedom of 14 people he had enslaved at a gathering on his farm. The event is remembered as an early milestone in the movement against slavery in America.",
+    "source": "Woodbridge Township history"
+  },
+  {
+    "date": "07-05",
+    "year": 1947,
+    "title": "Larry Doby becomes the American League's first Black player",
+    "text": "On July 5, 1947, Paterson-raised Larry Doby became the first African American player in the American League.",
+    "source": "New Jersey official history; Baseball Hall of Fame"
+  },
+  {
+    "date": "07-06",
+    "year": 1928,
+    "title": "Crowds gather for Woodbridge Speedway's opening event",
+    "text": "On July 6, 1928, about 15,000 racing fans gathered at the new Woodbridge Speedway, a wooden board track that became known as one of the world's fastest half-mile raceways.",
+    "source": "Woodbridge local-history research"
+  },
+  {
+    "date": "07-18",
+    "year": 1877,
+    "title": "Edison conceives the phonograph at Menlo Park",
+    "text": "On July 18, 1877, Thomas Edison conceived the phonograph at his Menlo Park laboratory in New Jersey.",
+    "source": "Thomas Edison Papers / National Park Service"
+  },
+  {
+    "date": "07-18",
+    "year": 1951,
+    "title": "Jersey Joe Walcott wins the heavyweight championship",
+    "text": "On July 18, 1951, Jersey Joe Walcott defeated Ezzard Charles to become world heavyweight boxing champion. At age 37, he was the oldest heavyweight champion at that time.",
+    "source": "Boxing history research"
+  },
+  {
+    "date": "08-07",
+    "year": 1789,
+    "title": "U.S. Lighthouse Service is established",
+    "text": "On August 7, 1789, the federal Lighthouse Service was established. New Jersey's Sandy Hook Lighthouse later became part of the nation's lighthouse system.",
+    "source": "U.S. Coast Guard / lighthouse history"
+  },
+  {
+    "date": "08-17",
+    "year": 1896,
+    "title": "Atlantic City names its beachfront walkway the Boardwalk",
+    "text": "On August 17, 1896, Atlantic City formally gave its beachfront walkway the name “The Boardwalk.”",
+    "source": "Atlantic City historical research"
+  },
+  {
+    "date": "08-22",
+    "year": 1906,
+    "title": "Victor Talking Machine Company begins making Victrolas in Camden",
+    "text": "On August 22, 1906, the Victor Talking Machine Company began manufacturing Victrolas in Camden, New Jersey.",
+    "source": "New Jersey industrial-history research"
+  },
+  {
+    "date": "08-24",
+    "year": 1876,
+    "title": "Abraham Browning helps popularize the Garden State nickname",
+    "text": "On August 24, 1876, Camden attorney Abraham Browning spoke on New Jersey Day at the Centennial Exhibition in Philadelphia. He is traditionally credited with helping popularize New Jersey's nickname, the Garden State.",
+    "source": "New Jersey historical chronology"
+  },
+  {
+    "date": "08-25",
+    "year": 1932,
+    "title": "Amelia Earhart lands at Newark Airport",
+    "text": "On August 25, 1932, Amelia Earhart landed at Newark Airport after completing the first nonstop transcontinental flight by a woman.",
+    "source": "New Jersey aviation-history research"
+  },
+  {
+    "date": "08-30",
+    "year": 1964,
+    "title": "The Beatles make their first New Jersey appearance",
+    "text": "On August 30, 1964, the Beatles performed their first New Jersey concert at Atlantic City Convention Hall.",
+    "source": "New Jersey music-history research"
+  },
+  {
+    "date": "08-31",
+    "year": 1897,
+    "title": "Edison receives a patent for a motion-picture camera",
+    "text": "On August 31, 1897, Thomas Edison received a patent for his kinetographic motion-picture camera.",
+    "source": "Thomas Edison Papers"
+  },
+  {
+    "date": "09-07",
+    "year": 1921,
+    "title": "Atlantic City hosts its first Inter-City Beauty Contest",
+    "text": "On September 7, 1921, Atlantic City hosted its first Inter-City Beauty Contest. The event helped launch the tradition that became the Miss America Pageant.",
+    "source": "Miss America / Atlantic City historical research"
+  },
+  {
+    "date": "09-09",
+    "year": 1964,
+    "title": "Three new Woodbridge schools open",
+    "text": "On September 9, 1964, three new Woodbridge schools opened: JFK Memorial High School, Avenel Junior High, and School No. 27 in Colonia.",
+    "source": "Woodbridge Township historical research"
+  },
+  {
+    "date": "09-11",
+    "year": 1877,
+    "title": "Barron Library opens in Woodbridge",
+    "text": "On September 11, 1877, Barron Library opened in Woodbridge as the first free public library in Middlesex County. The building later became the Barron Arts Center.",
+    "source": "Woodbridge Township history"
+  },
+  {
+    "date": "09-19",
+    "year": 1988,
+    "title": "Bon Jovi releases the New Jersey album",
+    "text": "On September 19, 1988, Bon Jovi released its fourth studio album, New Jersey.",
+    "source": "Bon Jovi / music-history reference"
+  },
+  {
+    "date": "09-23",
+    "year": 1949,
+    "title": "Bruce Springsteen is born in Long Branch",
+    "text": "On September 23, 1949, musician Bruce Springsteen was born in Long Branch, New Jersey.",
+    "source": "Bruce Springsteen biographical reference"
+  },
+  {
+    "date": "09-30",
+    "year": 1899,
+    "title": "Marconi demonstrates wireless telegraphy at Twin Lights",
+    "text": "On September 30, 1899, Guglielmo Marconi demonstrated wireless telegraphy at Twin Lights in Highlands, transmitting messages from a ship and receiving them at the lighthouse.",
+    "source": "Twin Lights historical research"
+  },
+  {
+    "date": "10-01",
+    "year": 1880,
+    "title": "Edison Lamp Works begins commercial production",
+    "text": "On October 1, 1880, Edison Lamp Works began commercial production of incandescent lamps at Menlo Park, New Jersey.",
+    "source": "Rutgers Thomas Edison Papers chronology"
+  },
+  {
+    "date": "10-06",
+    "year": 1966,
+    "title": "Martin Luther King Jr. speaks at Monmouth College",
+    "text": "On October 6, 1966, Dr. Martin Luther King Jr. spoke at Monmouth College in West Long Branch, New Jersey.",
+    "source": "Monmouth University historical research"
+  },
+  {
+    "date": "10-07",
+    "year": 1993,
+    "title": "Toni Morrison receives the Nobel Prize in Literature",
+    "text": "On October 7, 1993, Princeton professor Toni Morrison was awarded the Nobel Prize in Literature.",
+    "source": "Nobel Prize official biography"
+  },
+  {
+    "date": "10-08",
+    "year": 1982,
+    "title": "New Jersey Devils earn their first victory",
+    "text": "On October 8, 1982, the New Jersey Devils recorded their first victory, defeating the New York Rangers 3–2 at the Meadowlands.",
+    "source": "NHL / New Jersey Devils historical records"
+  },
+  {
+    "date": "10-10",
+    "year": 1976,
+    "title": "Giants Stadium opens",
+    "text": "On October 10, 1976, Giants Stadium opened in East Rutherford, with the New York Giants hosting the Dallas Cowboys in the first regular-season game.",
+    "source": "New Jersey sports-history research"
+  },
+  {
+    "date": "10-17",
+    "year": 1933,
+    "title": "Albert Einstein arrives in Princeton",
+    "text": "On October 17, 1933, Albert Einstein arrived in Princeton to begin work at the Institute for Advanced Study.",
+    "source": "Institute for Advanced Study"
+  },
+  {
+    "date": "10-18",
+    "year": 1931,
+    "title": "Thomas Edison dies in West Orange",
+    "text": "On October 18, 1931, Thomas Edison died at his home in West Orange, New Jersey.",
+    "source": "National Park Service / Thomas Edison National Historical Park"
+  },
+  {
+    "date": "10-24",
+    "year": 1931,
+    "title": "George Washington Bridge is dedicated",
+    "text": "On October 24, 1931, the George Washington Bridge was dedicated. It opened to traffic the following day.",
+    "source": "Port Authority historical research"
+  },
+  {
+    "date": "10-28",
+    "year": 1897,
+    "title": "Woodbridge Hook and Ladder Company No. 1 holds its organizing meeting",
+    "text": "On October 28, 1897, members held the organizing meeting for Woodbridge Hook and Ladder Company No. 1.",
+    "source": "Woodbridge Fire Company official history"
+  },
+  {
+    "date": "10-29",
+    "year": 1901,
+    "title": "Woodbridge Fire Company meets in its new firehouse",
+    "text": "On October 29, 1901, Woodbridge Fire Company No. 1 held its first meeting in its new School Street firehouse.",
+    "source": "Woodbridge Fire Company official history"
+  },
+  {
     "date": "11-04",
-    "year": 1952,
-    "title": "Voters approve financing for the Garden State Parkway",
-    "text": "On November 4, 1952, New Jersey voters approved a referendum allowing the Highway Authority to finance construction of the Garden State Parkway with state-backed bonds.",
-    "source": "Garden State Parkway History",
-    "source_url": "https://gsphistory.njta.gov/"
+    "year": 1897,
+    "title": "Woodbridge Fire Company No. 1 adopts its name and bylaws",
+    "text": "On November 4, 1897, Woodbridge's volunteer fire company adopted the name Woodbridge Hook and Ladder Company No. 1 and approved its bylaws.",
+    "source": "Woodbridge Fire Company official history"
+  },
+  {
+    "date": "11-05",
+    "year": 1951,
+    "title": "New Jersey Turnpike opens its first southern section",
+    "text": "On November 5, 1951, the first southern section of the New Jersey Turnpike opened to traffic.",
+    "source": "New Jersey Turnpike Authority"
+  },
+  {
+    "date": "11-06",
+    "year": 1869,
+    "title": "Rutgers and Princeton play the first intercollegiate football game",
+    "text": "On November 6, 1869, Rutgers defeated Princeton 6–4 in New Brunswick in what is recognized as the first intercollegiate football game in the United States.",
+    "source": "Middlesex County historical research"
+  },
+  {
+    "date": "11-10",
+    "year": 1766,
+    "title": "Queen's College charter is signed in New Brunswick",
+    "text": "On November 10, 1766, the charter for Queen's College, later Rutgers University, was signed in New Brunswick by Royal Governor William Franklin.",
+    "source": "Rutgers University historical research"
+  },
+  {
+    "date": "11-11",
+    "year": 1885,
+    "title": "Woodbridge adopts its official township seal",
+    "text": "On November 11, 1885, Woodbridge Township's Town Committee adopted the design for the official township seal, featuring symbols of its clay, ceramics and maritime industries.",
+    "source": "Woodbridge Township historical account",
+    "source_url": "https://www.woodbridgetownshiphistory.org/19th_Century.html"
+  },
+  {
+    "date": "11-13",
+    "year": 1927,
+    "title": "Holland Tunnel opens",
+    "text": "On November 13, 1927, the Holland Tunnel opened, connecting New Jersey and New York beneath the Hudson River.",
+    "source": "Port Authority historical research"
+  },
+  {
+    "date": "11-14",
+    "year": 1969,
+    "title": "Apollo 12 launches with Princeton alumnus Pete Conrad in command",
+    "text": "On November 14, 1969, Apollo 12 launched with Princeton alumnus Charles “Pete” Conrad Jr. serving as commander.",
+    "source": "NASA mission history"
+  },
+  {
+    "date": "11-20",
+    "year": 1789,
+    "title": "New Jersey becomes the first state to ratify the Bill of Rights",
+    "text": "On November 20, 1789, New Jersey became the first state to ratify the amendments that became the Bill of Rights.",
+    "source": "U.S. Senate / New Jersey State Archives"
+  },
+  {
+    "date": "11-21",
+    "year": 1950,
+    "title": "USS New Jersey returns to active service",
+    "text": "On November 21, 1950, the battleship USS New Jersey returned to active service during the Korean War.",
+    "source": "U.S. Navy history"
+  },
+  {
+    "date": "11-28",
+    "year": 1776,
+    "title": "Washington's army passes through Woodbridge",
+    "text": "On November 28–29, 1776, George Washington and the Continental Army passed through Woodbridge during their retreat toward New Brunswick.",
+    "source": "Woodbridge historical marker",
+    "source_url": "https://www.hmdb.org/m.asp?m=306572"
+  },
+  {
+    "date": "11-30",
+    "year": 1723,
+    "title": "William Livingston is born",
+    "text": "On November 30, 1723, William Livingston was born in Albany, New York. He later became New Jersey's first governor.",
+    "source": "New Jersey state historical research"
+  },
+  {
+    "date": "11-30",
+    "year": 1951,
+    "title": "New Jersey Turnpike section opens from Bordentown to Woodbridge",
+    "text": "On November 30, 1951, a 40-mile section of the New Jersey Turnpike opened between Bordentown and Woodbridge.",
+    "source": "New Jersey Turnpike Authority",
+    "source_url": "https://www.njta.gov/wp-content/uploads/legacy/1692/fin_ann_rpt_2011.pdf"
+  },
+  {
+    "date": "12-05",
+    "year": 1777,
+    "title": "First issue of the New-Jersey Gazette is published",
+    "text": "On December 5, 1777, the first issue of the New-Jersey Gazette was published in Burlington by Isaac Collins. It became New Jersey's first continuously published newspaper.",
+    "source": "New Jersey State Library / American Antiquarian Society"
+  },
+  {
+    "date": "12-07",
+    "year": 1877,
+    "title": "Edison demonstrates the phonograph",
+    "text": "On December 7, 1877, Thomas Edison demonstrated his phonograph at the offices of Scientific American in New York. The invention had been developed in New Jersey.",
+    "source": "National Park Service",
+    "source_url": "https://www.nps.gov/edis/learn/historyculture/phonograph.htm"
+  },
+  {
+    "date": "12-07",
+    "year": 1942,
+    "title": "USS New Jersey is launched",
+    "text": "On December 7, 1942, the battleship USS New Jersey was launched at the Philadelphia Navy Yard, with New Jersey Governor Charles Edison and his wife Carolyn attending.",
+    "source": "U.S. Navy / New Jersey historical research"
+  },
+  {
+    "date": "12-12",
+    "year": 1915,
+    "title": "Frank Sinatra is born in Hoboken",
+    "text": "On December 12, 1915, singer and actor Frank Sinatra was born in Hoboken, New Jersey.",
+    "source": "Frank Sinatra biographical reference"
+  },
+  {
+    "date": "12-15",
+    "year": 1950,
+    "title": "Port Authority Bus Terminal opens",
+    "text": "On December 15, 1950, the Port Authority Bus Terminal opened in Manhattan, serving commuters traveling between New Jersey and New York.",
+    "source": "Port Authority history",
+    "source_url": "https://www.panynj.gov/port-authority/en/about/our-history.html"
+  },
+  {
+    "date": "12-16",
+    "year": 1970,
+    "title": "First New Jersey Lottery ticket is sold",
+    "text": "On December 16, 1970, Governor William T. Cahill purchased the first New Jersey Lottery ticket.",
+    "source": "New Jersey Lottery historical research"
   },
   {
     "date": "12-18",
@@ -40,11 +728,60 @@
     "source_url": "https://www.nj.gov/state/archives/documentary-treasures-us-constitution-convention-minutes.shtml"
   },
   {
+    "date": "12-19",
+    "year": 1964,
+    "title": "First indoor collegiate football game is played in Atlantic City",
+    "text": "On December 19, 1964, the Liberty Bowl was played indoors at Atlantic City's Convention Hall. Utah defeated West Virginia 32–6.",
+    "source": "New Jersey sports-history research"
+  },
+  {
+    "date": "12-22",
+    "year": 1937,
+    "title": "First Lincoln Tunnel tube opens",
+    "text": "On December 22, 1937, the first tube of the Lincoln Tunnel opened to traffic between New Jersey and Manhattan.",
+    "source": "Port Authority historical research"
+  },
+  {
+    "date": "12-23",
+    "year": 1947,
+    "title": "Bell Labs demonstrates the transistor",
+    "text": "On December 23, 1947, scientists at Bell Labs in New Jersey demonstrated the transistor, a breakthrough that helped transform electronics.",
+    "source": "Bell Labs / IEEE historical research"
+  },
+  {
+    "date": "12-25",
+    "year": 1776,
+    "title": "Washington leads the Delaware River crossing",
+    "text": "On December 25, 1776, George Washington led Continental Army troops across the Delaware River from Pennsylvania into New Jersey in preparation for the attack at Trenton.",
+    "source": "National Park Service"
+  },
+  {
     "date": "12-26",
     "year": 1776,
     "title": "Washington's forces win the Battle of Trenton",
-    "text": "On December 26, 1776, George Washington's troops crossed the Delaware River and surprised Hessian forces in Trenton. The Patriot victory became a turning point in the American Revolution.",
+    "text": "On December 26, 1776, George Washington's troops surprised Hessian forces in Trenton and won an important American victory during the Revolutionary War.",
     "source": "National Park Service",
     "source_url": "https://www.nps.gov/subjects/americanrevolution/timeline.htm"
+  },
+  {
+    "date": "12-27",
+    "year": 1920,
+    "title": "Woodbridge Free School Fund trustees hold their final meeting",
+    "text": "On December 27, 1920, Woodbridge's all-male Free School Fund trustee board held its final meeting, marking the transition to an all-women board elected earlier that fall.",
+    "source": "Woodbridge school-district historical research"
+  },
+  {
+    "date": "12-28",
+    "year": 1982,
+    "title": "USS New Jersey is recommissioned",
+    "text": "On December 28, 1982, the battleship USS New Jersey was recommissioned for service.",
+    "source": "U.S. Navy history"
+  },
+  {
+    "date": "12-31",
+    "year": 1879,
+    "title": "Edison demonstrates electric lighting at Menlo Park",
+    "text": "On December 31, 1879, Thomas Edison publicly demonstrated incandescent electric lighting at Menlo Park, illuminating about 100 lamps.",
+    "source": "Smithsonian / Thomas Edison Papers"
   }
 ]
